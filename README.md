@@ -1,4 +1,4 @@
-### Classes-and-inheritance-in-Kotlin-developers
+### Classes and inheritance in Kotlin
 
   📌 This project is the Kotlin part of the project. I decided to do some excercise from [Android Developers](https://developer.android.com). This pro is the first.
 
